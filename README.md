@@ -1,7 +1,14 @@
 # lncrnafind
-# findCodeANdExon.py
+findCodeANdExon.py --> getTransName.sh --> findCodeANdExon.py
+
+findCodeANdExon.py
+
 Example : python3 findCodeANdExon.py gffcompare.annotated.gtf prelnc.gtf
-# getTransName.sh
+
+getTransName.sh
+
 Example : bash getTranName.sh
-# findCodeANdExon.py
+
+findCodeANdExon.py
+
 Example : python3 lncChooseScore.py noncoding.txt prelnc.gtf lnc.gtf
