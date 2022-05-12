@@ -1,4 +1,4 @@
-# Example  python findCodeANdExon.py noncoding.txt prelnc.gtf lnc.gtf
+# Example  python3 findCodeANdExon.py noncoding.txt prelnc.gtf lnc.gtf
 
 import sys
 
