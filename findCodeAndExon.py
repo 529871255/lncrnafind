@@ -1,4 +1,4 @@
-# Example  python findCodeANdExon.py gffcompare.annotated.gtf output.gtf
+# Example  python3 findCodeANdExon.py gffcompare.annotated.gtf output.gtf
 
 import sys
 
